@@ -14,9 +14,9 @@
 <p align="left">On my pinned website I have included my other social media accounts to connect <br>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamrao&" alt="swayamrao" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamrao&theme=onedark" alt="swayamrao" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swayamrao" alt="swayamrao" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=swayamrao" alt="swayamrao" /></a> </p>
 
 <p align="center"> 
   Visitor count<br>
