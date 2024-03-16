@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Cyber Security and related stuff**
 
-- ⚡ Fun fact **Everything seems fun when you realize you are not alone;)**
-
 - 📫 How to reach me **work.mail.g@proton.me**
 
 
