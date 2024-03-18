@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">On my pinned website I have included my other social media accounts to connect <br>
 </p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamrao&theme=onedark"/></p>
+<!--
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamrao&theme=onedark"/></p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=swayamrao" alt="swayamrao" /></a> </p>
 
