@@ -15,7 +15,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamrao&theme=onedark"/></p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=swayamrao" alt="swayamrao" /></a> </p>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Grim1ock.png" alt="TryHackMe">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/swayamrao/count.svg" />
