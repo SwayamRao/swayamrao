@@ -15,7 +15,7 @@ I am passionate about cybersecurity and enjoy solving challenges on platforms li
 - 📫 How to reach me **work.mail.g@proton.me**
 
 <p align="center">
-  <strong>TryHackMe: Top 6%</strong>
+  <strong>TryHackMe: Top 6%</strong><br>
   <a href="https://tryhackme.com/p/Grim1ock">Check it out;)</a>
 </p>
 
@@ -25,7 +25,7 @@ I am passionate about cybersecurity and enjoy solving challenges on platforms li
 </p>
 
 <p align="center">
-  <em>I am the founder of <a href="securit.club">secuRIT</a> Club</em>
+  <em>I am the founder of <a href="[securit.club](https://securit.club/)">secuRIT</a> Club</em>
 </p>
 
 <p align="center"> 
