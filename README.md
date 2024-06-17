@@ -18,5 +18,5 @@
 <script src="https://tryhackme.com/badge/2059439"></script>
 <p align="center"> 
   Visitor count<br>
- 
+  <img src="https://profile-counter.glitch.me/swayamrao/count.svg" />
 </p>
