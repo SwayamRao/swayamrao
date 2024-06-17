@@ -16,15 +16,16 @@ I am passionate about cybersecurity and enjoy solving challenges on platforms li
 
 <p align="center">
   <strong>TryHackMe: Top 6%</strong>
+  <a href="https://tryhackme.com/p/Grim1ock">Check it out;)</a>
 </p>
 
 <p align="center">
   I have solved 100+ problems in picoCTF with profile link: <br>
-  <a href="https://play.picoctf.org/users/GRIMLOCK">https://play.picoctf.org/users/GRIMLOCK</a>
+  <a href="https://play.picoctf.org/users/GRIMLOCK">Click Here</a>
 </p>
 
 <p align="center">
-  <em>I am the founder of secuRIT Club</em>
+  <em>I am the founder of <a href="securit.club">secuRIT</a> Club</em>
 </p>
 
 <p align="center"> 
