@@ -1,24 +1,31 @@
-# Welcome to My GitHub Profile!
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Grim1ock.png" alt="TryHackMe Badge">
+</p>
 
-<h1 align="center">Sup 👋, I'm Swayam Rao</h1>
+<h1 align="center">Welcome to My GitHub Profile!</h1>
+
+<h1 align="center">Hoi 👋, I'm Swayam Rao</h1>
 
 - 💬 Ask me about **Cyber Security and related stuff**
 
 - 📫 How to reach me **work.mail.g@proton.me**
 
-## Achievements
+<p align="center">
+  <strong>TryHackMe: Top 6%</strong>
+</p>
 
-- TryHackMe: Top 6% - ![TryHackMe Badge](https://tryhackme.com/badge/2059439)
-- Solved 100+ problems in picoCTF - [PicoCTF Profile](https://play.picoctf.org/users/GRIMLOCK)
-- Founder of Security Club
+<p align="center">
+  I have solved 100+ problems in picoCTF with profile link: <br>
+  <a href="https://play.picoctf.org/users/GRIMLOCK">https://play.picoctf.org/users/GRIMLOCK</a>
+</p>
 
-## About Me
+<p align="center">
+  <em>I am the founder of Security Club</em>
+</p>
 
-I am passionate about cybersecurity and enjoy solving challenges on platforms like TryHackMe and picoCTF. Feel free to connect with me!
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=swayamrao" alt="swayamrao" /></a> </p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/swayamrao/count.svg" />
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=swayamrao" alt="swayamrao" /></a> </p>
