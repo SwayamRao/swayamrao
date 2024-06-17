@@ -18,5 +18,5 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/Grim1ock.png" alt="TryHackMe">
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/swayamrao/count.svg" />
+ <script src="https://tryhackme.com/badge/2059439"></script>
 </p>
