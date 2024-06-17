@@ -25,7 +25,7 @@ I am passionate about cybersecurity and enjoy solving challenges on platforms li
 </p>
 
 <p align="center">
-  <em>I am the founder of <a href="[securit.club](https://securit.club/)">secuRIT</a> Club</em>
+  <em>I am the founder of <a href="https://securit.club">secuRIT</a> Club</em>
 </p>
 
 <p align="center"> 
