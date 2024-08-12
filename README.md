@@ -16,7 +16,7 @@ I am passionate about cybersecurity and enjoy solving challenges on platforms li
 - 📫 How to reach me **work.mail.g@proton.me**
 
 <p align="center">
-  <strong>TryHackMe: Top 2%</strong><br>
+  <strong>TryHackMe: Top 1%</strong><br>
   <a href="https://tryhackme.com/p/Grim1ock">Check it out;)</a>
 </p>
 
