@@ -13,7 +13,7 @@ I am passionate about cybersecurity and enjoy solving challenges on platforms li
 
 - 💬 Ask me about **Cyber Security and related stuff**
 
-- 📫 How to reach me **work.mail.g@proton.me**
+- 📫 How to reach me **work.grim1ock@proton.me**
 
 <p align="center">
   <strong>TryHackMe: Top 1%</strong><br>
