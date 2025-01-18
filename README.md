@@ -8,7 +8,7 @@
 
 ### 🏆 Cybersecurity Leaderboard
 - **🌟 TryHackMe Rank**: Top 1% (Legend Tier)
-  - 🔥 180+ day streak
+  - 🔥 Global ranking under 5k
   - 🧠 Completed Learning Paths: Jr. Penetration Tester, Comptia Pentest+ and 3 more
 - **🔓 HackTheBox Rank**: Script Kiddie (Working towards Hacker Tier 0-0 )
 - **🥇 CTF Competitions**: 
