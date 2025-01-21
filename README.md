@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
-<h1 align="center">Hoi 👋, I'm grim1ock or you can call me Swayam Rao as well ;)</h1>
+<h1 align="center">Hoi 👋, I'm Grim1ock or you can call me Swayam Rao as well ;)</h1>
 
 <p align="center">
   
