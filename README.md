@@ -15,7 +15,7 @@
   - 5th Place in CEH compete 'Operation ATT&CK Unveil' on the month of December
   - 8th Place in CEH compete 'WebConfig Wreckers' on the month of September
 - **📜 Certifications**:
-  - Persuing Certified Ethical Hacker Masters v12 (CEH)
+  - Certified Ethical Hacker Masters v12 (CEH)
 
 ## About Me
 
